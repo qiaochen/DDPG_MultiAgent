@@ -73,7 +73,9 @@ As can be seen from the plot, the average score gradually passed **0.5** and rea
 
 ### Testing
 The scores of 100 testing episodes are visualized as follows:
+
 ![img](https://raw.githubusercontent.com/qiaochen/DDPG_MultiAgent/master/test_score_plot.png)
+
 The model obtained an average score of **+1.95** during testing, which is over **+0.5**.
 
 ## Conclusion
